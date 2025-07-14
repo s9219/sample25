@@ -60,7 +60,9 @@ A footnote can also have multiple lines[^2].
 
 <!-- HTML コメント内に配置することで、レンダリングされた Markdown からコンテンツを非表示にすることができます。This content will not appear in the rendered Markdown -->
 
-テーブルの作成
+テーブルの作成[^3]
+[^3]: 出典 https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+
 
 パイプ (|) とハイフン (-) を使用してテーブルを作成できます。 ハイフンは各列のヘッダーの作成に使用され、パイプは各列の区切りに使用されます。 正しく表示されるように、表の前には空白行を 1 行追加してください。
 
