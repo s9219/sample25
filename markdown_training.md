@@ -86,7 +86,8 @@ A footnote can also have multiple lines[^2].
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
-折りたたみセクションの作成
+折りたたみセクションの作成[^4]
+[^4]: 出典 https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
 
 details ブロック内のすべての Markdown は、閲覧者がクリックして詳細を展開するまで折りたたまれたままです。
 
